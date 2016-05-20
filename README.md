@@ -1,6 +1,7 @@
 # perl
 
 perl code from scripting course
+Spring 2016 Pellissippi State
 
-two interesting programs from Intro To Scripting Languages at PSCC
+a couple of interesting programs written in perl
 
